@@ -1,4 +1,4 @@
--- Generated with JReleaser 1.0.0 at 2022-06-29T23:21:46.114048+01:00
+-- Generated with JReleaser 1.0.0 at 2022-06-29T23:23:21.442301+01:00
 
 local name = "quranCLI"
 local version = "1.0"
