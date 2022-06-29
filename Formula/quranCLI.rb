@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.0.0 at 2022-06-29T23:21:13.044864+01:00
+# Generated with JReleaser 1.0.0 at 2022-06-29T23:21:46.114048+01:00
 class Qurancli < Formula
   desc "A simple tool to Read, Search and Recite the Quran."
   homepage "https://github.com/ahmedsaheed/quranCLI"
